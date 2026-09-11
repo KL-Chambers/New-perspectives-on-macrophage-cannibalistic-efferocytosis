@@ -8,54 +8,54 @@ by Keith L. Chambers.
 
 The main notebooks are:
 
-* `Fragmented\_uptake\_4.1.nb`
-* `Fragmented\_uptake\_4.2.nb`
-* `Fragmented\_uptake\_4.3.nb`
-* `Whole\_cell\_uptake\_4.1.nb`
-* `Whole\_cell\_uptake\_4.2.nb`
-* `Whole\_cell\_uptake\_4.3.nb`
-* `Nibbling\_uptake\_4.1.nb`
-* `etaprior\_MCMC.nb`
+* `Fragmented_uptake_4.1.nb`
+* `Fragmented_uptake_4.2.nb`
+* `Fragmented_uptake_4.3.nb`
+* `Whole_cell_uptake_4.1.nb`
+* `Whole_cell_uptake_4.2.nb`
+* `Whole_cell_uptake_4.3.nb`
+* `Nibbling_uptake_4.1.nb`
+* `etaprior_MCMC.nb`
 
 ## Data files
 
 The following `.csv` files contain the redigitised data from Ford *et
 al.* (Proc. R. Soc. B, 2019):
 
-* `full\_initconds.csv`
-* `t12\_full.csv`
-* `t24\_full.csv`
-* `t36\_full.csv`
-* `t48\_full.csv`
-* `t60\_full.csv`
-* `avg\_LipidContent\_data.csv`
+* `full_initconds.csv`
+* `t12_full.csv`
+* `t24_full.csv`
+* `t36_full.csv`
+* `t48_full.csv`
+* `t60_full.csv`
+* `avg_LipidContent_data.csv`
 
 ## MCMC samples
 
 The following `.mx` files are MCMC samples:
 
-* `MCMC1\_etaprior\_tdep\_100k`
-* `MCMC2\_etaprior\_tdep\_100k`
-* `MCMC3\_etaprior\_tdep\_100k`
-* `MCMC4\_etaprior\_tdep\_100k`
-* `MCMC1\_etaprior\_ldep\_100k`
-* `MCMC2\_etaprior\_ldep\_100k`
-* `MCMC3\_etaprior\_ldep\_100k`
-* `MCMC4\_etaprior\_ldep\_100k`
-* `MCMC5\_etaprior\_tdep\_100k`
-* `MCMC6\_etaprior\_tdep\_100k`
-* `MCMC7\_etaprior\_tdep\_100k`
-* `MCMC8\_etaprior\_tdep\_100k`
-* `MCMC9\_etaprior\_tdep\_100k`
-* `MCMC10\_etaprior\_tdep\_100k`
-* `MCMC11\_etaprior\_tdep\_100k`
-* `MCMC12\_etaprior\_tdep\_100k`
-* `MCMC13\_etaprior\_tdep\_100k`
-* `MCMC14\_etaprior\_tdep\_100k`
+* `MCMC1_etaprior_tdep_100k`
+* `MCMC2_etaprior_tdep_100k`
+* `MCMC3_etaprior_tdep_100k`
+* `MCMC4_etaprior_tdep_100k`
+* `MCMC1_etaprior_ldep_100k`
+* `MCMC2_etaprior_ldep_100k`
+* `MCMC3_etaprior_ldep_100k`
+* `MCMC4_etaprior_ldep_100k`
+* `MCMC5_etaprior_tdep_100k`
+* `MCMC6_etaprior_tdep_100k`
+* `MCMC7_etaprior_tdep_100k`
+* `MCMC8_etaprior_tdep_100k`
+* `MCMC9_etaprior_tdep_100k`
+* `MCMC10_etaprior_tdep_100k`
+* `MCMC11_etaprior_tdep_100k`
+* `MCMC12_etaprior_tdep_100k`
+* `MCMC13_etaprior_tdep_100k`
+* `MCMC14_etaprior_tdep_100k`
 
 ## Example figure
 
-[!\[Fragmented uptake at 60](Fragmented\_uptake\_full\_t60.jpg)](https://github.com/KL-Chambers/New-perspectives-on-macrophage-cannibalistic-efferocytosis/blob/main/Fragmented_uptake_full_t60.jpg)
+[!\[Fragmented uptake at 60](Fragmented_uptake_full_t60.jpg)](https://github.com/KL-Chambers/New-perspectives-on-macrophage-cannibalistic-efferocytosis/blob/main/Fragmented_uptake_full_t60.jpg)
 
 ## Contact
 
