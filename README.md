@@ -55,7 +55,7 @@ The following `.mx` files are MCMC samples:
 
 ## Example figure
 
-[!\[Fragmented uptake at 60](Fragmented_uptake_full_t60.jpg)](https://github.com/KL-Chambers/New-perspectives-on-macrophage-cannibalistic-efferocytosis/blob/main/Fragmented_uptake_full_t60.jpg)
+![Fragmented uptake at 60 hours](Fragmented_uptake_full_t60.jpg)
 
 ## Contact
 
